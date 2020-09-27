@@ -1,16 +1,19 @@
 # SplashScreen
+# I share files for pleasure so feel free to use or modify them.
 
-A new Flutter project.
+Just simple Liquid swipe splash screen like made with 'liquid_swipe'
+and SVG asset at the middle
+- to add visit [Liquid Swipe](https://pub.dev/packages/liquid_swipe). at pub.dev
+- to add visit [SVG](https://pub.dev/packages/flutter_svg). at pub.dev
 
-## Getting Started
+## Demonstration
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/zharrane/Liquid-Swipe/blob/master/demo/untitled.gif" width="400" height="750"/>
 
-A few resources to get you started if this is your first Flutter project:
+## Modification
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+feel free to modify or use the nav bar anywhere
+if you're looking for any other shape play with utils/button-nav-bar.dart variables
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## If you get any errors or issues, please create an [Issue](https://github.com/zharrane/Liquid-Swipe/issues/new).
+### Feel free to use this script share it or modify it.
