@@ -1,4 +1,4 @@
-# SplashScreen
+# Liquide swipe
 # I share files for pleasure so feel free to use or modify them.
 
 Just simple Liquid swipe splash screen like made with 'liquid_swipe'
