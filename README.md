@@ -8,7 +8,7 @@ and SVG asset at the middle
 
 ## Demonstration
 
-<img src="https://github.com/zharrane/Liquid-Swipe/blob/master/demo/untitled.gif" width="400" height="750"/>
+<img src="https://github.com/zharrane/Liquid-Swipe/blob/master/untitled.gif" width="400" height="750"/>
 
 ## Modification
 
