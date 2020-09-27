@@ -3,7 +3,7 @@
 
 Just simple Liquid swipe splash screen like made with 'liquid_swipe'
 and SVG asset at the middle
-- to add Liquid swipe visit [Liquid Swipe](https://pub.dev/packages/liquid_swipe). at pub.dev
+- to add Liquid swipe package visit [Liquid Swipe](https://pub.dev/packages/liquid_swipe). at pub.dev
 - to add SVG assets visit [SVG](https://pub.dev/packages/flutter_svg). at pub.dev
 
 ## Demonstration
